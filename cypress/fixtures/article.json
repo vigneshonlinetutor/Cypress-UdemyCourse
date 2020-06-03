@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title":"Demo-Article",
+            "slug": "Demo-Article",
+            "body": "Demo-Article",
+            "createdAt": "2020-06-02T12:48:39.696Z",
+            "updatedAt": "2020-06-02T12:48:39.696Z",
+            "tagList": [],
+            "description": "Demo-Article",
+            "author": {
+                "username": "Vignesh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        }
+    ],
+    "articlesCount": 500
+}
